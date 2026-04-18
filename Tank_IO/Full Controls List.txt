@@ -1,0 +1,36 @@
+-----------------
+GENERAL CONTROLS
+-----------------
+Mouse - Select (Clicking the Start, Exit, Restart buttons)
+'ESC' Key - Closes game
+-----------------
+CONTROLLER CONTROLS
+-----------------
+Left Stick - Movement
+'A' Button - Shoot
+-----------------
+KEYBOARD CONTROLS
+-----------------
+=================
+Player One
+=================
+'W, A, S, D' Keys - Movement
+
+• 'W' - UP
+• 'A' - LEFT
+• 'S' - DOWN
+• 'D' - RIGHT
+
+'X' Key - Shoot
+=================
+Player Two
+=================
+'I, J, K, L' Keys - Movement
+
+• 'I' - UP
+• 'J' - LEFT
+• 'K' - DOWN
+• 'L' - RIGHT
+
+'M' Key - Shoot
+=================

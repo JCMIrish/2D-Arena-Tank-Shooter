@@ -1,0 +1,63 @@
+TANK.IO How to Guide // Non Visual
+
+======================================
+How to start guide?
+======================================
+
+• Step One: Download Visual Studio Code
+	o via: https://code.visualstudio.com
+ 
+• Step Two Install Python 
+	o via: https://www.python.org/downloads/
+
+• Step Three: Open CMD/Command Prompt
+ 
+• Step Four: Install the PYGAME PIP
+	o Type the following: pip install pygame
+ 
+• Step Five: Open Visual Studio Code
+ 
+• Step Six: Install Python Extension
+	o via: visual studio code extensions tab
+ 
+• Step Seven: Click "File"
+
+• Step Eight: Click "Open Folder"
+ 
+• Step Nine: Select the extracted folder named "Tank_IO”
+	o Ensure "Tank.IO.py" is open on Visual Studio Code
+ 
+• Step Ten: Click on "Run" then "Start Debugging" or "Run without Debugging"
+	o Click or search "Python File" if prompted
+
+• Step Eleven: Main Menu should start!
+
+======================================
+Game menu guide
+======================================
+
+• How to start game?
+	o Click the 'Start' button to begin the game
+
+• How to restart game?
+	o After a player wins, press the 'Restart' button
+
+• Want to close the game?
+	o Click the 'Exit' button to close the game
+	o or press the 'ESC' key
+
+• What are the controls?
+	o Controls are located on side menu
+	o Also located in the controls.txt file
+
+• Want to use joysticks?
+	o Use any usb compatible joystick e.g. xbox controller, playstation controller, Nintendo
+	o If compatible game will say "Joystick Connected" in Terminal
+
+======================================
+Gameplay
+======================================
+
+• Hits to kill?
+	o Each player requires 5 hits to win
+ 	

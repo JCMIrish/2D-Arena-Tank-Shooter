@@ -1,0 +1,10 @@
+Shooting & Hit SFX by: Muncheybobo // https://opengameart.org/content/retro-shooter-sound-effects
+
+Music OSTs & Jingles by: SketchyLogic // https://opengameart.org/content/nes-shooter-music-5-tracks-3-jingles
+
+PYGAME pip used for development: pygame team // https://www.pygame.org
+
+Guides used along development: Coding With Russ // https://www.youtube.com/@CodingWithRuss
+
+Entire project is based in Python // https://www.python.org
+
